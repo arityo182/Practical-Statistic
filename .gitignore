@@ -21,6 +21,7 @@ parts/
 sdist/
 var/
 Scripts/
+share/
 *.egg-info/
 .installed.cfg
 *.egg
